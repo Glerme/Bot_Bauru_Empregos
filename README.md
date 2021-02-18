@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/static/v1?label=Autor&message=Guilherme_Felipe&color=7159c1&style=for-the-badge&logo=ghost"/>
     <img src="https://img.shields.io/static/v1?label=Progresso&message=Beta&color=informational&style=for-the-badge&logo=ghost"/>
     <img src="https://img.shields.io/github/license/Glerme/Bot_Bauru_Empregos?label=license&style=for-the-badge">
-    <img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fglhermme">
+    [![Twitter Badge](https://img.shields.io/badge/-@glhermme-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/glhermme)]	(https://twitter.com/glhermme)
 </h1>
 
     
@@ -53,5 +53,5 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 Feito com ❤️ por Guilherme Felipe 👋🏽 Entre em contato!
 
-[![Twitter Badge](https://img.shields.io/badge/-@tgmarinho-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/glhermme)](https://twitter.com/glhermme) [![Linkedin Badge](https://img.shields.io/badge/-Guilherme-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/glerme/)](https://www.linkedin.com/in/glerme/) 
+[![Twitter Badge](https://img.shields.io/badge/-@glhermme-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/glhermme)](https://twitter.com/glhermme) [![Linkedin Badge](https://img.shields.io/badge/-Guilherme-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/glerme/)](https://www.linkedin.com/in/glerme/) 
 [![Gmail Badge](https://img.shields.io/badge/-guiggff@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guiggff@gmail.com)](mailto:guiggff@gmail.com)

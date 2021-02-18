@@ -2,5 +2,6 @@
 <p align="center">Bot para busca de vagas no site Bauru Empregos</p>
 
 <h1 align="center">
-    <a href="https://www.python.org"><img src="https://simpleicons.org/icons/python.svg" style="color:white;width:30px"> Python</a>
+    <a href="https://www.python.org"><img src="https://img.shields.io/static/v1?label=Blog&message=Rocketseat&color=7159c1&style=for-the-badge&logo=ghost"/>
+Python</a>
 </h1>

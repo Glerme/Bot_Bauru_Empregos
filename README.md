@@ -23,5 +23,5 @@
 </h4>
 
 <h1 align="center">
-  <img alt="Print tela inicial" title="telaInicial" src="./assets/printTela.png" />
+  <img alt="Print tela inicial" title="telaInicial" src="https://github.com/Glerme/Bot_Bauru_Empregos/blob/main/Assets/printTela.png" />
 </h1>

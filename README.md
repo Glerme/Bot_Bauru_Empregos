@@ -26,13 +26,15 @@
   <img alt="Print tela inicial" title="telaInicial" src="https://github.com/Glerme/Bot_Bauru_Empregos/blob/main/Assets/printTela.png" />
 </h1>
 
-
+<br />
+ 
 ### Pré-requisitos
 
 Na pasta Bot, há um arquivo .rar, baixe-o e descompacte. Dentro da pasta terá um arquivo .exe, você iniciará nesse arquivo
 <img alt="Print Arquivo inicializador" title="arquivoexe" src="https://github.com/Glerme/Bot_Bauru_Empregos/blob/main/Assets/exe.png" />
 
-
+<br />
+ 
 ### 🛠 Tecnologias 
 
 As seguintes ferramentas foram usadas na construção do projeto:

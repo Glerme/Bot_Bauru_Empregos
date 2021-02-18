@@ -16,3 +16,12 @@
  <a href="#licenc-a">Licença</a> • 
  <a href="#autor">Autor</a>
 </p>
+
+
+<h4 align="center"> 
+	🚧  Bot 🚀 Em construção...  🚧
+</h4>
+
+<h1 align="center">
+  <img alt="Print tela inicial" title="telaInicial" src="./assets/printTela.png" />
+</h1>

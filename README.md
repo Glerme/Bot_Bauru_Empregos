@@ -29,7 +29,7 @@
 <br />
 <hr>
 
-### Objetivo
+### 📈 Objetivo
 
 Tive como objetivo, automatizar busca de vagas para o site <a href="https://www.bauruempregos.com.br" target="_blank">Bauru Empregos</a>, e nesse processo aprendi
 a como utilizar tecnologias novas como o Selenium e PySimpleGUI
@@ -38,7 +38,7 @@ a como utilizar tecnologias novas como o Selenium e PySimpleGUI
 <br />
 <hr>
  
-### Como utilizar
+### 📝 Como utilizar
 
 Na pasta Bot, há um arquivo .rar, baixe-o e descompacte. Dentro da pasta terá um arquivo .exe, você iniciará nesse arquivo
 <img alt="Print Arquivo inicializador" title="arquivoexe" src="https://github.com/Glerme/Bot_Bauru_Empregos/blob/main/Assets/exe.png" />
@@ -59,13 +59,13 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <br>
 
 
-## 📝 Licença
+## 📎 Licença
 
 Este projeto está sobre a licença MIT.
 
 <br>
 
-### Autor
+### 👦 Autor
 ---
  
 <a href="https://glerme.github.io">

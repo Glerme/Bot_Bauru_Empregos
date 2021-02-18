@@ -58,6 +58,13 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 <br>
 
+
+## 📝 Licença
+
+Este projeto está sobre a licença MIT.
+
+<br>
+
 ### Autor
 ---
  

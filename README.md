@@ -62,7 +62,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ---
 
 <a href="https://glerme.github.io">
- <img style="border-radius: 80%; width:100px" src="https://avatars.githubusercontent.com/Glerme" alt="Perfil"/>
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/Glerme"  width:"100px" alt="Perfil"/>
  <br />
  <sub><b>Guilherme Felipe</b></sub></a>
 

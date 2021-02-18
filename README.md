@@ -11,7 +11,7 @@
     
 <p align="center">
  <a href="#objetivo">Objetivo</a> •
- <a href="#tecnologias">Tecnologias</a> • 
+ <a href="###tecnologias">Tecnologias</a> • 
  <a href="#licenc-a">Licença</a> • 
  <a href="#autor">Autor</a>
 </p>
@@ -27,7 +27,7 @@
 
 
 
-### 🛠 Tecnologias
+### 🛠 Tecnologias 
 
 As seguintes ferramentas foram usadas na construção do projeto:
 

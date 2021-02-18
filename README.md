@@ -22,9 +22,18 @@
 	🚧  Bot Em construção...  🚧
 </h4>
 
+
 <h1 align="center">
   <img alt="Print tela inicial" title="telaInicial" src="https://github.com/Glerme/Bot_Bauru_Empregos/blob/main/Assets/printTela.png" />
 </h1>
+<br />
+<hr>
+
+### Objetivo
+
+Tive como objetivo, automatizar busca de vagas para o site https://www.bauruempregos.com.br, e nesse processo aprendi
+a como utilizar tecnologias novas como o Selenium e PySimpleGUI
+
 
 <br />
 <hr>
@@ -35,7 +44,9 @@ Na pasta Bot, há um arquivo .rar, baixe-o e descompacte. Dentro da pasta terá 
 <img alt="Print Arquivo inicializador" title="arquivoexe" src="https://github.com/Glerme/Bot_Bauru_Empregos/blob/main/Assets/exe.png" />
 
 <br />
- 
+<hr>
+
+
 ### 🛠 Tecnologias 
 
 As seguintes ferramentas foram usadas na construção do projeto:
@@ -43,6 +54,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Python](https://www.python.org)
 - [Selenium](https://www.selenium.dev)
 - [PySimpleGUI](https://pysimplegui.readthedocs.io/en/latest/)
+
 
 
 

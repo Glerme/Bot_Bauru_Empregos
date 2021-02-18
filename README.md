@@ -27,6 +27,7 @@
 </h1>
 
 <br />
+<hr>
  
 ### Pré-requisitos
 

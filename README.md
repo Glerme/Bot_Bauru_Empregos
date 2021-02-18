@@ -3,5 +3,5 @@
 
 <h1 align="center">
     <img src="https://img.shields.io/static/v1?label=Autor&message=Guilherme_Felipe&color=7159c1&style=for-the-badge&logo=ghost"/>
-    <img src="https://img.shields.io/static/v1?label=Progresso&message=Beta&color=7159c1&style=for-the-badge&logo=ghost"/>
+    <img src="https://img.shields.io/static/v1?label=Progresso&message=Beta&color=7300c1&style=for-the-badge&logo=ghost"/>
 </h1>

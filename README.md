@@ -13,7 +13,7 @@
  <a href="#objetivo">Objetivo</a> •
  <a href="#como-utilizar">Como Utilizar</a> •	
  <a href="#-tecnologias">Tecnologias</a> • 
- <a href="#licenc-a">Licença</a> • 
+ <a href="#licença">Licença</a> • 
  <a href="#autor">Autor</a>
 </p>
 

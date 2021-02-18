@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/static/v1?label=Autor&message=Guilherme_Felipe&color=7159c1&style=for-the-badge&logo=ghost"/>
     <img src="https://img.shields.io/static/v1?label=Progresso&message=Beta&color=informational&style=for-the-badge&logo=ghost"/>
     <img src="https://img.shields.io/github/license/Glerme/Bot_Bauru_Empregos?label=license&style=for-the-badge">
-    [![Badge](https://img.shields.io/badge/-@glhermme-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/glhermme)]	(https://twitter.com/glhermme)
+    <img src="https://img.shields.io/badge/-@glhermme-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/glhermme">	(https://twitter.com/glhermme)
 </h1>
 
     

@@ -60,9 +60,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ### Autor
 ---
-
+ 
 <a href="https://glerme.github.io">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/Glerme"  width:"100px" alt="Perfil"/>
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/Glerme" width="100px;" alt="Perfil"/>
  <br />
  <sub><b>Guilherme Felipe</b></sub></a>
 

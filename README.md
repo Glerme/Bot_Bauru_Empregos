@@ -31,7 +31,7 @@
 
 ### Objetivo
 
-Tive como objetivo, automatizar busca de vagas para o site https://www.bauruempregos.com.br, e nesse processo aprendi
+Tive como objetivo, automatizar busca de vagas para o site <a href="https://www.bauruempregos.com.br" target_blank>Bauru Empregos</a>, e nesse processo aprendi
 a como utilizar tecnologias novas como o Selenium e PySimpleGUI
 
 

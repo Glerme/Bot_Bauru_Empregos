@@ -11,7 +11,7 @@
     
 <p align="center">
  <a href="#objetivo">Objetivo</a> •
- <a href="#pré-requisitos">Pré-requisitos</a> •	
+ <a href="#como-utilizar">Como Utilizar</a> •	
  <a href="#-tecnologias">Tecnologias</a> • 
  <a href="#licenc-a">Licença</a> • 
  <a href="#autor">Autor</a>
@@ -56,13 +56,13 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [PySimpleGUI](https://pysimplegui.readthedocs.io/en/latest/)
 
 
-
+<br>
 
 ### Autor
 ---
 
 <a href="https://glerme.github.io">
- <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/380327?s=460&u=61b426b901b8fe02e12019b1fdb67bf0072d4f00&v=4" width="100px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/Glerme" width="100px;" alt=""/>
  <br />
  <sub><b>Guilherme Felipe</b></sub></a>
 

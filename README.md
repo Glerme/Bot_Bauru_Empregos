@@ -14,7 +14,7 @@
  <a href="#-como-utilizar">Como Utilizar</a> •	
  <a href="#-tecnologias">Tecnologias</a> • 
  <a href="#-licença">Licença</a> • 
- <a href="#autor">Autor</a>
+ <a href="#-autor">Autor</a>
 </p>
 
 

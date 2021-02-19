@@ -41,7 +41,10 @@ a como utilizar tecnologias novas como o Selenium e PySimpleGUI
 ### 📝 Como utilizar
 
 Na pasta Bot, há um arquivo .rar, baixe-o e descompacte. Dentro da pasta terá um arquivo .exe, você iniciará nesse arquivo
+<br>
 <img alt="Print Arquivo inicializador" title="arquivoexe" src="https://github.com/Glerme/Bot_Bauru_Empregos/blob/main/Assets/exe.png" />
+
+Por enquanto o Bot só funciona em seu PC se o navegador Google Chrome estiver instalado
 
 <br />
 <hr>

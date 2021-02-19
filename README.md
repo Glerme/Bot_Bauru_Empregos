@@ -46,7 +46,7 @@ Na pasta Bot, há um arquivo .rar, baixe-o e descompacte. Dentro da pasta terá 
 <img alt="Print Arquivo inicializador" align="center" title="arquivoexe" src="https://github.com/Glerme/Bot_Bauru_Empregos/blob/main/Assets/exe.png" />
 <br>
 <br>
-Por enquanto o Bot só funciona em seu PC se o navegador Google Chrome estiver instalado
+Por enquanto o Bot só funciona em seu PC se o navegador Google Chrome, ou Edge estiver instalado. Estou trabalhando para o navegador Firefox
 
 <br />
 <hr>

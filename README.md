@@ -10,7 +10,7 @@
 
     
 <p align="center">
- <a href="#objetivo">Objetivo</a> •
+ <a href="#-objetivo">Objetivo</a> •
  <a href="#como-utilizar">Como Utilizar</a> •	
  <a href="#-tecnologias">Tecnologias</a> • 
  <a href="#-licença">Licença</a> • 

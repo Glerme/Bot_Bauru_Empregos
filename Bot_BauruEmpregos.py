@@ -20,7 +20,7 @@ layout = [  [sg.Text('Digite a vaga procurada: ', font='Arial 16 bold', text_col
         ] 
 
 # criar janela
-janela = sg.Window('Procura Vagas', layout)
+janela = sg.Window('Bot para Bauru Empregos', layout)
 eventos, valores = janela.read()
 
 # ler os eventos
@@ -61,7 +61,7 @@ while True:
                 driver = webdriver.Chrome(ChromeDriverManager().install())
                 iniciar(driver)
             elif valores['firefox'] == True:
-                driver = webdriver.Firefox()
+                driver = webdriver.Firefox(executable_path=GeckoDriverManager().install())
                 iniciar(driver)
             elif valores['edge'] == True:
                 driver = webdriver.Edge(EdgeChromiumDriverManager().install())
